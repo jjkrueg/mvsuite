@@ -1,5 +1,5 @@
 v 1.71
-d {bf:wmc}: A Stata package for weighted missingness analysis.
+d {bf:mvsuite}: A Stata package for weighted missingness analysis.
 d Requires: Stata version 15 or higher.
 d
 d KW: Stata
@@ -16,5 +16,12 @@ d License: MIT
 d
 d Author: Jan Jakob Krüger (info@jjkrueger.de)
 d
-f wmc.ado
-f wmc.sthlp
+f mvdesc.ado
+f mvplot.ado
+f mvplotts.ado
+f mvdist.ado
+f mvsuite.sthlp
+f mvdesc.sthlp
+f mvplot.sthlp
+f mvplotts.sthlp
+f mvdist.sthlp
